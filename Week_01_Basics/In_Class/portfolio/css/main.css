@@ -1,0 +1,27 @@
+body {
+	background: #F6F6F6;
+	margin: 30px;
+	border-bottom: 5px solid #222222;
+    border-top: 5px solid #222222;
+}
+
+#avatar {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	/*display: inline-block;*/
+
+	float: right;
+}
+
+/* Code for the bio */
+
+/*
+#bio {
+	display: inline-block;
+	width: 200px;
+}
+
+*/
+
+
