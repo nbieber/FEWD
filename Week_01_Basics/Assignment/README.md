@@ -75,5 +75,5 @@ Here are examples of a simple "About" and "Portfolio" page that fulfill the assi
 
 ###Evaluation / Submission
 
-Students will create a new repository on GitHub called "homework-portfolio" and push their code to this new repository when they are ready to submit. The instructional team will grade each technical requirement and provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2).  The maximum possible score on this assignment is 16/16. 
+Post your page to Github, then submit a link on Schoology. There are no numeric grades - assignments will be graded to provide feedback.
 
