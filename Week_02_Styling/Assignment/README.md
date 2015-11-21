@@ -70,4 +70,4 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ###Evaluation / Submission
 
-Create a new repository on GitHub called "homework-landingpage" and push your code to it when you are ready to submit.
+Create a new repository on GitHub called "fewd-relaxr" and push your code to it when you are ready to submit.
