@@ -1,0 +1,17 @@
+.special {
+	color: red;
+
+	font-size: 32px;
+	background: rgba(0, 0, 255, .5);
+}
+
+img {
+	/*display: block;*/
+	width: 200px;
+	height: 200px;
+	/*margin: 0 auto;*/
+}
+
+.img-div {
+	text-align: center;
+}
