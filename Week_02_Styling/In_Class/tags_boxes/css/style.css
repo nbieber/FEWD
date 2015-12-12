@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	background-color: red;
+	border: dotted 30px black;
+
+	padding: 25px 50px;
+	width: 400px;
+}
+
+td {
+	border: 1px solid black;
+}

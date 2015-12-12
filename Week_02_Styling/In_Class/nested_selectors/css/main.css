@@ -1,0 +1,26 @@
+body {
+	font-family: Georgia, serif;
+    line-height: 1.4;
+    margin: 3em;
+}
+
+p {
+	color: #888;	
+}
+
+em {
+	color: black;
+}
+
+blockquote {
+	border-left: 5px solid #EEE;
+	padding-left: .7em;
+}
+
+blockquote p {
+	font-style: italic;
+}
+
+blockquote p em {
+	font-style: normal;
+}
