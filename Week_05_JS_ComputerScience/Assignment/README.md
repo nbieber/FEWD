@@ -1,4 +1,4 @@
-#FEWD Week #4: JavaScript Basics
+#FEWD Week #5: jQuery
 
 <br>
 
