@@ -1,4 +1,4 @@
-#FEWD Week #4: JavaScript Basics
+#FEWD Week #5: jQuery
 
 <br>
 
@@ -30,9 +30,9 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ###Technical Requirements 
 
-- Prevent a form submission with the ```event.preventDefault()``` function
-- Use the ```$.ready()``` handler to delay your code from executing until all DOM assets have been loaded
-- Select the appropriate DOM elements with CSS selectors upon a user's click using the ```$.click()``` handler
+<!--- Prevent a form submission with the ```event.preventDefault()``` function-->
+- Use the ```$(document).ready()``` handler to delay your code from executing until all DOM assets have been loaded
+- Select the appropriate DOM elements with CSS selectors upon a user's click using the ```$.click()``` handler:
 - If a user clicks "Read More" on the primary column:
 
   - have the text in the ```<p>``` tag slide down along with a "Read Less" link in the blog post using  ```$.slideDown()``` and ```$.show()```
@@ -64,9 +64,8 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ###Evaluation / Submission
 
-
-Students should use the same folder and GitHub repository as the previous project ("homework-landingpage"). When ready for evaluation they should push their code to that repository and notify the instructional team via slack. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). **Note**: If bullets have child bullets, grade the child bullets and not the parent bullet belonging to the child. The maximum possible score on this assignment is 16/16. Bonus materials are completely optional.
+Students should use the same folder and GitHub repository as the previous project ("fewd-relaxr").
 
 ###Final Project Milestone 1
 
-By this week, you should have created and handed in wireframes that sketch out your idea and basic design for a final project.
+By next week, you should have created and handed in wireframes that sketch out your idea and basic design for a final project.
