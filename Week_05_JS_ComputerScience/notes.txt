@@ -1,0 +1,15 @@
+// Getter - gets information
+$("#faq").css('color');
+
+// Setter - sets information
+$("#faq").css('color', 'red');
+
+"the set of matched elements." - the stuff you get from the selector
+
+// Debugging
+
+1. CHECK YOUR CONSOLE!!!!
+2. Try some breakpoints
+    - put a breakpoint in the function you're trying to call
+       - does it get called?
+3. try running your selectors by themselves in the console
