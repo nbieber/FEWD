@@ -55,7 +55,6 @@ Use HTML to correctly structure the DOM
 
 - Use CSS to style the page:
   - Apply fonts, color and styles to elements and the page
-  - Demonstrate use of floats (or inline-block) and the box model
 
 - Use JavaScript/jQuery to make pages interactive
 
