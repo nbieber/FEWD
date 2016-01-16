@@ -1,0 +1,6 @@
+// Errors and what they mean:
+
+Unexpected Token: 
+wasn't expecting the piece of code it saw...
+usually because you're missing something right before it
+(Hint: check the previous line)
