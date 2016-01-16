@@ -55,7 +55,6 @@ Use HTML to correctly structure the DOM
 
 - Use CSS to style the page:
   - Apply fonts, color and styles to elements and the page
-  - Demonstrate use of floats (or inline-block) and the box model
 
 - Use JavaScript/jQuery to make pages interactive
 
@@ -103,5 +102,4 @@ Remember, you can use [Gitbot](fewd.us/gitbot/#home) to post to Github pages. Ju
 
 ###Evaluation / Submission
 
-Students will create a new repository on GitHub for their final project and push their code to this new repository when they are ready to submit.<!--  The instructional team will grade each technical requirement and provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2).  **Note**: If bullet points have child bullets, the instructional team should grade the child bullets and not the parent bullet belonging to the child. The maximum possible score on this assignment is 22/22. Bonus sections are completely optional.
- -->
+Students will create a new repository on GitHub for their final project and push their code to this new repository when they are ready to submit.
