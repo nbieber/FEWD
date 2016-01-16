@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form id="color">
+		<input id="box" type="text">
+		<input type="submit" value="Go!">
+	</form>
+
+	
+
+	<script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+	<script>
+	// When they submit the color form
+	$("#color").submit(changeColor);
+
+	function changeColor(event) {
+		event.preventDefault();
+
+		// Get the string from the box
+		var color = $("#box").val();
+
+		// Change the background color
+		$("body").css("background-color", color);
+	}
+
+	</script>
+</body>
+</html>
