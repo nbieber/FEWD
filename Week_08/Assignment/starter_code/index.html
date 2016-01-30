@@ -18,12 +18,19 @@
 				<h1 class="logo">Relaxr</h1>
 				<nav>
 					<ul>
+						<li id="nav-icon">
+							<div class="line"></div>
+							<div class="line"></div>
+							<div class="line"></div>
+						</li>
 						<li><a href="index.html">Home</a></li>
 						<li><a href="#">About</a></li>
 						<li><a href="#">Contact</a></li>
 						<li><a href="blog.html">Blog</a></li>
 					</ul>
 				</nav>
+
+
 			</div>
 		</header>
 		<section id="hero">
@@ -63,5 +70,18 @@
 
 			<p class="copyright">Copyright 2015. Relaxr.</p>
 		</footer>
+
+		<script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+
+		<script>
+		function toggleNav()
+		{
+			// Toggle the nav
+			
+		}
+
+		// Set up the click event
+		$("#nav-icon").click(toggleNav);
+		</script>
 	</body>
 </html>
