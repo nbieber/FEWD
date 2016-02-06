@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+	<style>
+		.box {
+			width: 150px;
+			height: 150px;
+			border: 1px solid black;
+		}
+
+		#draggable {
+			width: 150px;
+			height: 150px;
+			border: 1px solid black;
+			transition: 1s all;
+			-webkit-transition: 1s all;
+		}
+
+		/* Styles that apply while box is being dragged */
+		.ui-draggable-dragging {
+			background-color: green;
+			transform: scale(1.1);
+			-webkit-transform: scale(1.1);
+			border-radius: 50%;
+		}
+
+		#translate {
+			transform: translate(50px, 100px);
+			-webkit-transform: scale(1.1);
+		}
+
+		#rotate {
+			transform: rotate(30deg);
+			-webkit-transform: scale(1.1);
+		}
+
+		#skew {
+			transform: skewX(30deg);
+			-webkit-transform: scale(1.1);
+		}
+
+		nav a {
+			transition: 1s all;
+			-webkit-transition: 1s all;
+		}
+
+		nav a:hover {
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Stuff</a></li>
+		</ul>
+	</nav>
+
+	<div id="draggable">
+		
+	</div>
+
+	<div id="translate" class="box">
+		
+	</div>
+	<div id="rotate" class="box">
+		
+	</div>
+	<div id="skew" class="box">
+		
+	</div>
+	
+
+	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+  	<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+  	<script>
+  	$("#draggable").draggable();
+
+
+  	</script>
+</body>
+</html>

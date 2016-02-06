@@ -1,0 +1,10 @@
+{
+    "firstName": "Nicole",
+    "lastName": "Bieber",
+    "address": { 
+        "streetAddress": "425 2nd Street",
+        "city": "San Francisco", 
+        "state": "CA", 
+        "postalCode": 94107 
+    }
+}
